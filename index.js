@@ -45,7 +45,11 @@ fibo();
 // f) 2,10, 12, 16, 17, 18, 19, 200
 
     //====================================================//
-    
+//4)
+// Quando os dois carros se cruzarem, ambos estarão na mesma distância de Ribeirão Preto,
+// visto que o carro terá percorrido 60 km e o caminhão 40 km. Porém, considerando que estejam em sentidos opostos,
+// o caminhão vai estar mais perto de Ribeirão, considerando que seja uma reta e que não se possa fazer curvas nem contornos na pista.
+
 //5)
 function invertePalavra(palavra){
 
